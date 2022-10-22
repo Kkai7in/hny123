@@ -8,7 +8,6 @@
 "template_id": "hXpNV_oNtXGKghRP644D-zMR-7T8xFupx1tuU0956Dw",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["ou8JU6E-RagXCd2vCLWehfRnARCc，ou8JU6Mw-wnSlWMpUAWiZ33JA8VI"],
-
 # 信息配置
 # 和风天气apikey
 "weather_key": "148ba4026a9443c688cf415a90e3af6d",
@@ -20,9 +19,9 @@
 "birthday1": {"name": "小王", "birthday": "2004-01-07"},
 "birthday2": {"name": "小黄", "birthday": "2004-06-27"},
 # 在一起的日子，格式同上
-"love_date": "2022-06-01",
+"love_date": "2022-05-12",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"白鸽以教父之名亲吻乌鸦 我尊神明之意 祈祷玫瑰满地 爱意不止 与你浪漫生生不息": "",
+"note_ch": "白鸽以教父之名亲吻乌鸦 我尊神明之意 祈祷玫瑰满地 爱意不止 与你浪漫生生不息",
 # 金句英文
-"❤❤❤❤❤❤❤❤❤❤❤❤": ""
+"note_en": "今天也是爱你的一天哟"
 }
